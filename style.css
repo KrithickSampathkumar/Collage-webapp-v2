@@ -1,0 +1,37 @@
+.copy_right_footer {
+    position:fixed;
+    bottom: 0;
+    width: 100px;
+    text-align: center;
+    box-shadow: 0 6px 8px rgba(2, 2, 2, 0.2);
+}
+
+body{
+    background-color: rgb(252, 218, 1);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img:hover{
+    border-radius: 140px;
+    width:50px;
+    padding: 100;
+    box-shadow: 100;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bolder;
+}
+#camera{
+    height: 400px;
+    width: 500px;
+    border-color: coral;
+}
+h4{
+    font-family:'Oleo Script Swash Caps', 'cursive';
+    color: green;
+}
+#popup-allow{
+color:red;
+}
